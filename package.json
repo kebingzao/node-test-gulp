@@ -1,0 +1,16 @@
+{
+  "name": "gulp jshint test",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kbz",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jshint": "^1.9.4",
+    "jshint-stylish": "~1.0.1"
+  }
+}
